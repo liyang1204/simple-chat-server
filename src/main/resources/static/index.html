@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>Simple Chat Server</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.4/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="./script.js"></script>
+</head>
+<body onload="disconnect()">
+    <div>
+        <div>
+            <input type="text" id="roomName" placeholder="Room Name" />
+            <button id="connectToRoom" onclick="connectToRoom();">Connect to Room</button>
+            <button id="subscribeToSelf" onclick="subscribeToSelf();">Get Personal Messages</button>
+            <button id="disconnect" disabled="disabled" onclick="disconnect();">Disconnect</button>
+        </div>
+        <br/>
+
+        <div>
+            <button id="getAllRoomNames" onclick="getAllRoomNames();">Get Room Names</button>
+            <p id="roomNamesList"></p>
+        </div>
+        <br/>
+
+        <div>
+            <h1 id="title">Chat Room</h1>
+            <input type="text" id="messageContent" placeholder="Write a message..."/>
+            <button id="sendMessage" onclick="sendMessage();">Send</button>
+            <p id="response"></p>
+        </div>
+        <br/>
+        <br/>
+
+        <div>
+            <!-- Spring Security Logout-->
+            <button id="logout"><a href="/logout">Logout</a></button>
+        </div>
+    </div>
+</body>
+</html>

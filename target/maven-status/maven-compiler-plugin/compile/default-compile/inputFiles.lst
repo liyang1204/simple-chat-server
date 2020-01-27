@@ -1,0 +1,14 @@
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\service\RabbitMQService.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\config\WebSocketConfiguration.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\config\SecurityConfiguration.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\controller\SecurityController.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\controller\PostgreSQLMessageController.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\domain\MessageEntity.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\controller\MessageController.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\controller\RabbitMQController.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\domain\Message.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\service\RabbitMQServiceImpl.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\repository\MessageRepository.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\SimpleChatServerApplication.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\service\PostgreSQLMessageService.java
+C:\Users\6071587\source\Workspaces\SMART\simple-chat-server\src\main\java\com\smarttech\simplechatserver\service\PostgreSQLMessageServiceImpl.java

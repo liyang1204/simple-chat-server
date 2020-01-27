@@ -1,0 +1,11 @@
+com\smarttech\simplechatserver\controller\RabbitMQController.class
+com\smarttech\simplechatserver\service\PostgreSQLMessageServiceImpl.class
+com\smarttech\simplechatserver\domain\MessageEntity$MessageEntityBuilder.class
+com\smarttech\simplechatserver\config\SecurityConfiguration.class
+com\smarttech\simplechatserver\service\PostgreSQLMessageService.class
+com\smarttech\simplechatserver\service\RabbitMQServiceImpl.class
+com\smarttech\simplechatserver\controller\PostgreSQLMessageController.class
+com\smarttech\simplechatserver\domain\MessageEntity.class
+com\smarttech\simplechatserver\repository\MessageRepository.class
+com\smarttech\simplechatserver\service\RabbitMQService.class
+com\smarttech\simplechatserver\controller\SecurityController.class
